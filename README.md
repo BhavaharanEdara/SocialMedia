@@ -1,7 +1,7 @@
 ﻿# Deliver.O
 This is a MERN stack application. It is a socila media application whith features like user authentication, sorting posts, followers, Updating posts, deleting posts.
 
-Website URL :- https://23knpr.csb.app/
+Website URL :- https://peaceful-taffy-0773e9.netlify.app/
 ![image](https://github.com/user-attachments/assets/84a7f341-6276-448c-ad47-a4c018ab0900)
 
 ## Table of Contents
