@@ -1,4 +1,4 @@
-﻿# Deliver.O
+﻿# ConnectUs
 This is a MERN stack application. It is a socila media application whith features like user authentication, sorting posts, followers, Updating posts, deleting posts.
 
 Website URL :- https://gregarious-gumdrop-f726f3.netlify.app/
